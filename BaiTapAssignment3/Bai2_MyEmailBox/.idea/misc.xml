@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.102" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button.xml" value="0.102" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_1.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_10.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_2.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_3.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_4.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_5.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_6.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_7.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_8.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/avt_button_9.xml" value="0.108" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.102" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/layout/content_main.xml" value="0.22592592592592592" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/layout/email_detail.xml" value="0.1" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Storage/AndroidProject/Bai3/Bai2_MyEmailBox/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
